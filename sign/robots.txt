@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /todoapp/
+
+Sitemap: http://mberveno.me/sitemap.xml
