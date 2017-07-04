@@ -183,6 +183,7 @@ img {
     }
 
     .header,
+    .text,
     .title-float-right,
     .image-float-right {
         float: right;
