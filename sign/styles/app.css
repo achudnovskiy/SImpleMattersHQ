@@ -151,7 +151,7 @@ img {
 }
 
 .text-dimensions {
-    max-width: 500px;
+    min-width: 500px;
 }
 
 .book-dimensions {
