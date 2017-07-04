@@ -177,14 +177,14 @@ img {
 	}
 
     .title,
-    .text,
+    .image,
     .text-float-left,
     .header-float-left {
         float: left;
     }
 
     .header,
-    .image,
+    .text,
     .title-float-right,
     .image-float-right {
         float: right;
