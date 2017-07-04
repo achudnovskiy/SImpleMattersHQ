@@ -154,10 +154,6 @@ img {
     min-width: 500px;
 }
 
-.image-dimensions {
-    max-width: 350px;
-}
-
 .book-dimensions {
     max-width: 500px;
     padding-bottom: 25px;
