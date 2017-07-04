@@ -176,14 +176,13 @@ img {
 	}
 
     .title,
-    .text,
+    .image,
     .text-float-left,
     .header-float-left {
         float: left;
     }
 
     .header,
-    .image,
     .title-float-right,
     .image-float-right {
         float: right;
