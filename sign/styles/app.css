@@ -176,6 +176,10 @@ img {
 		width: 100%;
 	}
 
+    .hide-desktop {
+    display: none;
+    }
+
     .title,
     .image,
     .text-float-left,
