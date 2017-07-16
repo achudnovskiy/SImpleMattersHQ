@@ -147,10 +147,7 @@ img {
 }
 
 .image {
-    float: right;
-    position: relative;
-    left: -50%; /* or right 50% */
-    text-align: left;
+    text-align: center;
 }
 
 .description {
