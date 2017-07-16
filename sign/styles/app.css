@@ -146,6 +146,13 @@ img {
     color: #333;
 }
 
+.image {
+    float: right;
+    position: relative;
+    left: -50%; /* or right 50% */
+    text-align: left;
+}
+
 .description {
     font-size: 1.15rem;
 }
