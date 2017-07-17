@@ -183,6 +183,10 @@ img {
     display: none;
     }
 
+    .text-dimensions {
+    padding-top: 150px;
+    }
+
     .title,
     .image,
     .text-float-left,
