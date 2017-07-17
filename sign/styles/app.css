@@ -144,6 +144,7 @@ img {
 .description {
     font-family: 'Lato', sans-serif;
     color: #333;
+    line-height: 130%;
 }
 
 .image {
@@ -156,7 +157,6 @@ img {
 
 .text-dimensions {
     padding-top: 25px;
-    line-height: 120%;
 }
 
 .book-dimensions {
