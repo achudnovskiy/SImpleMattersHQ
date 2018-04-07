@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.webServer>
+        <rewrite>
+            <rules>
+                <rule name="Redirect root to folder" stopProcessing="true">
+                    <match url=".*" />
+                    <conditions>
+                        <add input="{HTTP_HOST}" pattern="^www.simplematters.ca" />
+                    </conditions>
+                    <action type="Redirect" url="http://www.simplematters.ca/sign" redirectType="Permanent" />
+                </rule>              
+            </rules>
+        </rewrite>
+    </system.webServer>
+</configuration>
